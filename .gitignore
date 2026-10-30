@@ -1,0 +1,8 @@
+node_modules/
+client/node_modules/
+dist/
+.netlify/
+.cache/
+*.log
+.env*
+!.env.example
